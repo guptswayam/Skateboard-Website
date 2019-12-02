@@ -9,6 +9,7 @@
     .container-fluid{
         padding-left: 0px;
         padding-right: 0px;
+		overflow-x:hidden;
     }
     .jumbotron-fluid .display-3{
         font-size: 40px;
